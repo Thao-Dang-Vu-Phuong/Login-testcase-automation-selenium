@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br> <a title= "Screenshots" href="C:\Users\Phuong Thao\eclipse-workspace\ASSIGNMENT_2_SELENIUM\.\Screenshots\funixExample71.png">]]>
+    </line>
+    <line>
+      <![CDATA[<img alt='funixExample71.png' src='.\Screenshots\funixExample71.png' height='240' width='418'/></a><br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-29T15:23:54 ICT" name="Default suite" finished-at="2023-05-29T15:27:18 ICT" duration-ms="203458">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T15:23:54 ICT" name="Default test" finished-at="2023-05-29T15:27:18 ICT" duration-ms="203458">
+      <class name="com.automation.testcase.TC_LoginTest">
+        <test-method is-config="true" signature="initDriverInstance()[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:23:55 ICT" name="initDriverInstance" finished-at="2023-05-29T15:23:57 ICT" duration-ms="2396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriverInstance -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:23:58 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:24:26 ICT" duration-ms="28341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:24:26 ICT" name="takeScreenshot" finished-at="2023-05-29T15:24:26 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:24:26 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:24:49 ICT" duration-ms="23105" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@13579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:24:49 ICT" name="takeScreenshot" finished-at="2023-05-29T15:24:49 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:24:49 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:25:19 ICT" duration-ms="29811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Funix1122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:25:19 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:25:43 ICT" duration-ms="24116" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Funix1234567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:25:19 ICT" name="takeScreenshot" finished-at="2023-05-29T15:25:19 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:25:43 ICT" name="takeScreenshot" finished-at="2023-05-29T15:25:43 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:25:43 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:26:10 ICT" duration-ms="26978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:26:10 ICT" name="takeScreenshot" finished-at="2023-05-29T15:26:10 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:26:10 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:26:32 ICT" duration-ms="21420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:26:32 ICT" name="takeScreenshot" finished-at="2023-05-29T15:26:32 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:26:32 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-05-29T15:27:18 ICT" duration-ms="45943" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample71@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@111]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //a[text()=' Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Phuong Thao\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:56523}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56523/devtoo..., se:cdpVersion: 113.0.5672.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31af3f6be42ffcade304a10544d8ca6b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //a[text()=' Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Phuong Thao\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:56523}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56523/devtoo..., se:cdpVersion: 113.0.5672.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31af3f6be42ffcade304a10544d8ca6b
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+at com.automation.pom.LoginPage.clickLogoutButton(LoginPage.java:57)
+at com.automation.testcase.TC_LoginTest.TC01_LoginFirstAccount(TC_LoginTest.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:27:18 ICT" name="takeScreenshot" finished-at="2023-05-29T15:27:18 ICT" duration-ms="172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=FAILURE method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br> <a title= "Screenshots" href="C:\Users\Phuong Thao\eclipse-workspace\ASSIGNMENT_2_SELENIUM\.\Screenshots\funixExample71.png">]]>
+            </line>
+            <line>
+              <![CDATA[<img alt='funixExample71.png' src='.\Screenshots\funixExample71.png' height='240' width='418'/></a><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:com.automation.testcase.TC_LoginTest@5e600dd5]" started-at="2023-05-29T15:27:18 ICT" name="closeDriverInstance" finished-at="2023-05-29T15:27:18 ICT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- com.automation.testcase.TC_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
